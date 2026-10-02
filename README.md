@@ -30,25 +30,13 @@ Planning weekly meals is hard when someone has **food allergies**, a **tight bud
 
 This app takes those inputs and returns a full **7 day Indian meal plan** with a **grocery list**, in seconds, running entirely on your own laptop.
 
-> 💛 Built for **[FRIEND NAME]** for the **Hacktoberfest 2026 Weekend Challenge: Build for a Friend** on DEV.
+> 💛 Built for **Shrey** for the **Hacktoberfest 2026 Weekend Challenge: Build for a Friend** on DEV.
 
 <div align="center">
 
 | 🧾 You enter | 🤖 Gemma thinks | 🍽 You get |
 |:---:|:---:|:---:|
 | Name, allergies, dislikes, diet, budget | Local model, no internet needed | Breakfast, lunch, dinner for 7 days + grocery list |
-
-</div>
-
----
-
-## 💬 What My Friend Said
-
-<div align="center">
-
-> ### *"Wait, you made this for me?! It actually knows what I can't eat and the plan is so simple and cheap. I am using this every week from now on. This is so thoughtful!"* 🥹
->
-> **[FRIEND NAME]**
 
 </div>
 
@@ -93,7 +81,7 @@ Do not like the output? Change one line to use a bigger or different model.
 
 ```mermaid
 flowchart LR
-    A[👤 Friend's details] --> B[🖥 Streamlit form]
+    A[👤 Shrey's details] --> B[🖥 Streamlit form]
     B --> C[📝 Safe prompt builder]
     C --> D[🦙 Ollama on localhost]
     D --> E[💎 Gemma 3 model]
@@ -262,7 +250,7 @@ Press Enter to skip.
 
 <div align="center">
 
-### 👨‍💻 Made by Shubham Bawari
+### 👨‍💻 Made by Shub
 
 [![GitHub](https://img.shields.io/badge/GitHub-shubsolos19-181717?style=for-the-badge&logo=github)](https://github.com/shubsolos19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubham--bawari-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shubham-bawari)
