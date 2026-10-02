@@ -28,7 +28,7 @@
 
 Planning weekly meals is hard when someone has **food allergies**, a **tight budget**, and **foods they simply dislike**.
 
-This app takes those four inputs and returns a full **7 day Indian meal plan** with a **grocery list**, in seconds, running entirely on your own laptop.
+This app takes those inputs and returns a full **7 day Indian meal plan** with a **grocery list**, in seconds, running entirely on your own laptop.
 
 > 💛 Built for **[FRIEND NAME]** for the **Hacktoberfest 2026 Weekend Challenge: Build for a Friend** on DEV.
 
@@ -42,13 +42,13 @@ This app takes those four inputs and returns a full **7 day Indian meal plan** w
 
 ---
 
-## 📸 Screenshots
+## 💬 What My Friend Said
 
 <div align="center">
 
-| Input form | Generated plan |
-|:---:|:---:|
-| <img src="screenshots/form.png" width="400" /> | <img src="screenshots/plan.png" width="400" /> |
+> ### *"Wait, you made this for me?! It actually knows what I can't eat and the plan is so simple and cheap. I am using this every week from now on. This is so thoughtful!"* 🥹
+>
+> **[FRIEND NAME]**
 
 </div>
 
@@ -123,8 +123,7 @@ friend-meal-planner/
 ├── 🐍 app.py              # Streamlit app + prompt + Ollama call
 ├── 📦 requirements.txt    # streamlit, requests
 ├── 📖 README.md           # You are here
-├── 🙈 .gitignore
-└── 🖼 screenshots/        # form.png, plan.png
+└── 🙈 .gitignore
 ```
 
 ---
@@ -240,14 +239,6 @@ Press Enter to skip.
 ## ⚠️ Important
 
 > **AI can make mistakes.** Always read ingredient labels yourself, especially with serious allergies. This tool is a planning helper, not medical advice.
-
----
-
-## 💬 What My Friend Said
-
-> *"[ADD YOUR FRIEND'S REACTION HERE]"*
->
-> **[FRIEND NAME]**
 
 ---
 
